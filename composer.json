@@ -83,7 +83,7 @@
         "omnipay/payfast": "~2.0",
         "omnipay/payflow": "~2.0",
         "omnipay/paymentexpress": "~2.0",
-        "omnipay/paypal": "~2.3.2",
+        "omnipay/paypal": "2.3.3",
         "omnipay/pin": "~2.0",
         "omnipay/sagepay": "~2.0",
         "omnipay/securepay": "~2.0",
