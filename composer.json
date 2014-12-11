@@ -57,6 +57,12 @@
             "homepage": "https://github.com/thephpleague/omnipay/graphs/contributors"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/altmind/omnipay-paypal"
+        }
+    ],
     "require": {
         "omnipay/2checkout": "~2.0",
         "omnipay/authorizenet": "~2.0",
